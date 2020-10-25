@@ -3,7 +3,7 @@
   
     <entry>
       <title><![CDATA[标签测试文章]]></title>
-      <url>/myBlog/2020/10/02/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      <url>/cristinaBlog/2020/10/02/%E6%A0%87%E7%AD%BE%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
       <content type="text"><![CDATA[]]></content>
       <categories>
         
@@ -20,7 +20,7 @@
   
     <entry>
       <title><![CDATA[Next Theme Tutorial]]></title>
-      <url>/myBlog/project/2017/07/20/next-tutorial/</url>
+      <url>/cristinaBlog/project/2017/07/20/next-tutorial/</url>
       <content type="text"><![CDATA[  NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.Live PreviewScreenshots      Desktop        Sidebar    Sidebar (Post details page)  MobileInstallationCheck whether you have Ruby 2.1.0 or higher installed:ruby --versionInstall Bundler:gem install bundlerClone Jacman theme:git clone https://github.com/Simpleyyt/jekyll-theme-next.gitcd jekyll-theme-nextInstall Jekyll and other dependencies from the GitHub Pages gem:bundle installRun your Jekyll site locally:bundle exec jekyll serverMore Details：Setting up your GitHub Pages site locally with JekyllFeaturesMultiple languages support, including: English / Russian / French / German / Simplified Chinese / Traditional Chinese.Default language is English.language: en# language: zh-Hans# language: fr-FR# language: zh-hk# language: zh-tw# language: ru# language: deSet language field as following in site _config.yml to change to Chinese.language: zh-HansComment support.NexT has native support for DuoShuo and Disqus comment systems.Add the following snippets to your _config.yml:duoshuo:  enable: true  shortname: your-duoshuo-shortnameORdisqus_shortname: your-disqus-shortnameSocial MediaNexT can automatically add links to your Social Media accounts:social:  GitHub: your-github-url  Twitter: your-twitter-url  Weibo: your-weibo-url  DouBan: your-douban-url  ZhiHu: your-zhihu-urlFeed link.  Show a feed link.Set rss field in theme’s _config.yml, as the following value:  rss: false will totally disable feed link.      rss:   use sites’ feed link. This is the default option.    Follow the installation instruction in the plugin’s README. After the configuration is done for this plugin, the feed link is ready too.    rss: http://your-feed-url set specific feed link.Up to 5 code highlight themes built-in.NexT uses Tomorrow Theme with 5 themes for you to choose from.Next use normal by default. Have a preview about normal and night:Head over to Tomorrow Theme for more details.ConfigurationNexT comes with few configurations.# Menu configuration.menu:  home: /  archives: /archives# Faviconfavicon: /favicon.ico# Avatar (put the image into next/source/images/)# can be any image format supported by web browsers (JPEG,PNG,GIF,SVG,..)avatar: /default_avatar.png# Code highlight theme# available: normal | night | night eighties | night blue | night brighthighlight_theme: normal# Fancybox for image galleryfancybox: true# Specify the date when the site was setupsince: 2013Browser support]]></content>
       <categories>
         
@@ -37,7 +37,7 @@
   
     <entry>
       <title><![CDATA[Highlight Test]]></title>
-      <url>/myBlog/investment/2017/07/19/highlight-test/</url>
+      <url>/cristinaBlog/investment/2017/07/19/highlight-test/</url>
       <content type="text"><![CDATA[public class Solution{    //test main()    public static void main(String[] args){        System.out.println("hi, java!");    }}]]></content>
       <categories>
         
@@ -54,7 +54,7 @@
   
     <entry>
       <title><![CDATA[Images]]></title>
-      <url>/myBlog/2013/12/26/images/</url>
+      <url>/cristinaBlog/2013/12/26/images/</url>
       <content type="text"><![CDATA[This is a image test post.]]></content>
       <categories>
         
@@ -67,7 +67,7 @@
   
     <entry>
       <title><![CDATA[Categories]]></title>
-      <url>/myBlog/reading/project/investment/2013/12/24/categories/</url>
+      <url>/cristinaBlog/reading/project/investment/2013/12/24/categories/</url>
       <content type="text"><![CDATA[This post contains 3 categories. Make sure your theme can display all of the categories.]]></content>
       <categories>
         
@@ -86,7 +86,7 @@
   
     <entry>
       <title><![CDATA[Google Link]]></title>
-      <url>/myBlog/reading/2013/12/24/link-post/</url>
+      <url>/cristinaBlog/reading/2013/12/24/link-post/</url>
       <content type="text"><![CDATA[This is a link post. Clicking on the link should open Google in a new tab or window.中文简体字测试开始  安得广厦千万间，大庇天下寒士俱欢颜From 茅屋为秋风所破歌 - 杜甫Block QuoteNormal blockquote  “I don’t like him.” as she said, I quote.Code BlockInline code blockThis is a inline code block: python, print 'helloworld'.Normal code blockalert('Hello World!');print "Hello world"Highlight code blockprint "Hello world"]]></content>
       <categories>
         
@@ -101,7 +101,7 @@
   
     <entry>
       <title><![CDATA[Tags]]></title>
-      <url>/myBlog/project/2013/12/24/tags/</url>
+      <url>/cristinaBlog/project/2013/12/24/tags/</url>
       <content type="text"><![CDATA[This post contains 3 tags. Make sure your theme can display all of the tags.]]></content>
       <categories>
         
