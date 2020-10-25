@@ -12,9 +12,10 @@ Live in Seattle
 
 Best vintage of 1991
 
-Love eating and cooking anything but noodle
+Enjoy food and love cooking
 
-Married to a noodle lover
+
+Married
 
 
 
