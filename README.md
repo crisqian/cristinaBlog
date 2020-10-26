@@ -1,2 +1,3 @@
 ## myBlog
-这是Cristina Chen的个人博客
+Welcome to Cristina Chen's Castle
+https://crisqian.github.io/cristinaBlog/
