@@ -4,24 +4,19 @@ type: about
 ---
 &nbsp;
 
-### Who I am
-Best vintage of 1991
+>Master of Computer Science, Seattle University
 
-Used to work on human language, now work on computer language
+>Master of English-Chinese Interpreting, University of Surrey
 
-### Where I am
-Seattle, USA
+>Used to work on human language, now work on computer language
 
-### Education
+>Tech toolkit: Java, Python, HTML, CSS, Javascript, Mean Stack, Git...
 
-Master in Computer Science, Seattle University
+>Now live in Seattle, USA
 
-Master in English - Chiense Translation and Intepreting, University of Surrey
+>Enjoy reading, cooking and trail in free time
 
-### Knowledge and Background
 
-### Interest
-trail, cooking
 
 
 
