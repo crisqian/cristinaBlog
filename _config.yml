@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Cristina Chen Castle
-subtitle: learn and log
-description:
+title: Cristina Chen 
+subtitle: Software Engineer · AI Learning · Reflections
+description: 
 author: Cristina Chen
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -218,6 +218,7 @@ font:
 social:
   Email: mailto:cristinachen1204@gmail.com
   Github: https://github.com/crisqian
+  Linkedin: https://www.linkedin.com/in/qianchen1204/
 
 
 # Social Links Icons
@@ -233,11 +234,12 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   Email: envelope
+  Linkedin: linkedin
 
 
-# 网路乞讨
-reward_comment: reward me on wechat
-wechatpay: https://i.imgur.com/lvpys2z.jpg
+
+reward_comment: 
+wechatpay: 
 alipay:
 
 # Sidebar Avatar
