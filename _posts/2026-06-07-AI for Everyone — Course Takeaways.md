@@ -9,7 +9,7 @@ tags:
 - Coursera
 - Andrew Ng
 ---
-![](/assets/images/aiforeveryone)
+![]({{ site.baseurl }}/assets/images/aiforeveryone.png)
 ### Resource
 Check out the course: [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone)
 
